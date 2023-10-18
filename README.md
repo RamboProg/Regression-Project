@@ -8,7 +8,6 @@ This is a simple machine learning project that demonstrates how to implement bot
 - Jupyter Notebook
 - NumPy
 - Pandas
-- Matplotlib
 - Scikit-learn
 
 ## Installation
