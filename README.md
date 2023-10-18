@@ -14,7 +14,7 @@ This is a simple machine learning project that demonstrates how to implement bot
 ## Installation
 
 1. Clone this repository.
-2. Import the required packages
+2. Install the required packages using `pip install -r requirements.txt`
 
 ## Usage
 
