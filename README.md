@@ -1,6 +1,6 @@
 # Simple Machine Learning Project
 
-This is a simple machine learning project that demonstrates how to implement both linear and polynomial regression models using Jupyter Notebook.
+This is a simple machine learning project that demonstrates how to implement both linear (with Multi-Feature equation and Gradient Descent) and polynomial regression models using Jupyter Notebook.
 
 ## Prerequisites
 
