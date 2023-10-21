@@ -9,6 +9,7 @@ This is a simple machine learning project that demonstrates how to implement bot
 - NumPy
 - Pandas
 - Scikit-learn
+- matplotlib
 
 ## Installation
 
