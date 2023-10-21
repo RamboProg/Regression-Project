@@ -23,7 +23,7 @@ This is a simple machine learning project that demonstrates how to implement bot
 
 ## Linear Regression Model
 
-The linear regression model is implemented using scikit-learn's `LinearRegression` class. The model is trained on a dataset of house prices and square footage.
+The linear regression model is implemented using scikit-learn's `LinearRegression` class. The model is trained on a dataset of car prices and mileage.
 
 ## Polynomial Regression Model
 
